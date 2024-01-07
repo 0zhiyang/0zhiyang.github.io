@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
+title: 'My Blogs'
+subtitle: 'My Blogs'
+description: '永远相信，美好的事情即将发生'
+keywords: 
+author: Lyon
 language: en
 timezone: ''
 
